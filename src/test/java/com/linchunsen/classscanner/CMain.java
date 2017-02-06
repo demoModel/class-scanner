@@ -9,7 +9,6 @@ import com.linchunsen.classscanner.ClassScanner;
  * <hr>
  * <h2>简介</h2> 类扫描器的测试类
  * <hr>
- * <hr>
  * <table border="1" cellspacing="0" cellpadding="2">
  * <caption><b>文件修改记录</b></caption>
  * <tr>
