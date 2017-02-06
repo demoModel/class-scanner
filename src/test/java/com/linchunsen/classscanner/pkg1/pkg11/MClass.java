@@ -4,7 +4,6 @@ package com.linchunsen.classscanner.pkg1.pkg11;
  * <hr>
  * <h2>简介</h2>示例类
  * <hr>
- * <hr>
  * <table border="1" cellspacing="0" cellpadding="2">
  * <caption><b>文件修改记录</b></caption>
  * <tr>
