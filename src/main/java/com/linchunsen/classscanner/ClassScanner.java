@@ -12,9 +12,6 @@ import java.util.jar.JarFile;
  * <hr>
  * <h2>简介</h2>类扫描器，能够实现的对class的扫描(jar包内也可以)
  * <hr>
- * Copyright © 2017 www.yuanqitec.com All Rights Reserved. <br>
- * 青岛元启智能机器人科技有限公司 版权所有<br>
- * <hr>
  * <table border="1" cellspacing="0" cellpadding="2">
  * <caption><b>文件修改记录</b></caption>
  * <tr>
